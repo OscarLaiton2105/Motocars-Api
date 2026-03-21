@@ -1,0 +1,55 @@
+# === SEGURIDAD - NUNCA subir al repo ===
+.env
+*.env
+.env.local
+.env.production
+ 
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+ 
+# === Entornos virtuales ===
+venv/
+env/
+ENV/
+.venv/
+.env/
+ 
+# === IDEs ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+ 
+# === Logs ===
+*.log
+logs/
+ 
+# === Docker ===
+*.dockerignore
+ 
+# === Carpetas innecesarias ===
+video/
+ 

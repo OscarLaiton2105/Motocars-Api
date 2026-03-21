@@ -1,0 +1,16 @@
+# No copiar al contenedor
+.env
+*.env
+__pycache__/
+*.pyc
+*.pyo
+.git/
+.gitignore
+venv/
+.venv/
+*.log
+video/
+docs/
+database/
+README.md
+ 

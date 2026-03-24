@@ -12,9 +12,9 @@ Sistema de marketplace de vehículos con dos entidades relacionadas:
 
 | Integrante | Responsabilidad |
 |------------|-----------------|
-| ***** | Backend (API REST con FastAPI) |
-| Oscar Alejandro | Frontend (HTML/CSS/JS con Tailwind) |
-| ***** | Base de datos y despliegue cloud |
+| Sebastian Blanco | Database (Postgress) |
+| Oscar Alejandro | Frontend  y Backend (HTML/CSS/JS con Tailwind, Api Rest) |
+| Oscar Laiton | Despliegue cloud |
 
 ## Stack Tecnológico
 
@@ -26,8 +26,7 @@ Sistema de marketplace de vehículos con dos entidades relacionadas:
 
 ## Servicios Cloud
 
-- AWS (EC2 / Elastic Beanstalk + RDS PostgreSQL + S3)
-  - O alternativamente GCP (App Engine + Cloud SQL + Cloud Storage)
+- GCP (App Engine + Cloud SQL + Cloud Storage)
 
 ## Estructura del Proyecto
 
@@ -187,4 +186,5 @@ uvicorn app.main:app --host 0.0.0.0 --port 8000
 
 ## Capturas de Pantalla
 
-*(Agregar capturas del funcionamiento aquí)*
+<img width="1430" height="906" alt="image" src="https://github.com/user-attachments/assets/299b1b7b-9bd4-480c-8c7a-dd0cc2af7151" />
+

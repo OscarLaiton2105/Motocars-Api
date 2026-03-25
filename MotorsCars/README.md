@@ -360,6 +360,7 @@ Dentro del prompt de PostgreSQL se ejecutan:
 
 - **App en producción:** https://motorscars-584814093483.us-central1.run.app
 - **API Docs:** https://motorscars-584814093483.us-central1.run.app/docs
+- **Video:** https://youtu.be/gzNLUF2vTKE
 
 ---
 
